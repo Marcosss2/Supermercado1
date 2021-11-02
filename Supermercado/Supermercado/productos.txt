@@ -1,0 +1,4 @@
+Manzanas;12;2.5;2022
+galletas;20;1.5;2022
+Manzanas;12;2.5;2022
+galletas;20;1.5;2022
